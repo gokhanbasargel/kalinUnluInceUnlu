@@ -18,7 +18,7 @@ public class Main {
             case 'Ö':
                 System.out.println("İnce Ünlüdür.");
             break;
-            
+
         }
     }
 }
